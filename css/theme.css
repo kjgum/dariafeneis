@@ -629,3 +629,17 @@ body {
     margin-top: 0;
   }
 }*/
+
+
+
+.navbar-header {
+    background-color: #333333;
+}
+
+.navbar-toggle {
+    color: #F9F9F9;
+}
+
+.navbar-collapse {
+    background-color: #333333;
+}
