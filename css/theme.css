@@ -5,7 +5,7 @@ body {
     height: 100%;
     font-family: Open Sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #333333;
     font-weight: 300;
 }
 
@@ -59,7 +59,7 @@ a:focus {
 }
 
 #resume {
-	background-color: black;
+	background-color: #333333;
 	color: #F9F9F9;
 }
 
